@@ -6,14 +6,6 @@ Built as a portfolio project demonstrating computer vision, event-driven archite
 
 ---
 
-## Screenshot
-
-![Store Intelligence Dashboard](docs/screenshots/dashboard.png)
-
-*Live dashboard showing footfall metrics, zone activity charts, anomaly alerts, and recent zone events.*
-
----
-
 ## Demo
 
 | Layer | URL |
