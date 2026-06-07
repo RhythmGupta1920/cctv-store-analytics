@@ -6,6 +6,18 @@ Built as a portfolio project demonstrating computer vision, event-driven archite
 
 ---
 
+## Screenshots
+
+### Overview — footfall, zone activity, and live metrics
+
+![Dashboard overview — footfall metrics, zone activity chart, and live status](docs/screenshots/dashboard-overview.png)
+
+### Events & alerts — zone events, visitor journeys, and anomaly detection
+
+![Dashboard events — alerts, zone event log, and visitor journeys](docs/screenshots/dashboard-events.png)
+
+---
+
 ## Demo
 
 | Layer | URL |
