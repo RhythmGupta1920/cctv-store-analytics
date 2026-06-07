@@ -1,0 +1,59 @@
+[
+  {
+    "event_type": "zone_entered",
+    "camera_id": "CAM 1",
+    "track_id": 1,
+    "zone": "billing_counter",
+    "zone_label": "Billing / Consultation Counter",
+    "timestamp_sec": 0.0,
+    "frame": 0
+  },
+  {
+    "event_type": "zone_entered",
+    "camera_id": "CAM 1",
+    "track_id": 2,
+    "zone": "central_display",
+    "zone_label": "Central Product Display",
+    "timestamp_sec": 0.0,
+    "frame": 0
+  },
+  {
+    "event_type": "zone_exited",
+    "camera_id": "CAM 1",
+    "track_id": 2,
+    "zone": "central_display",
+    "zone_label": "Central Product Display",
+    "timestamp_sec": 3.804,
+    "frame": 114,
+    "dwell_sec": 3.804
+  },
+  {
+    "event_type": "zone_entered",
+    "camera_id": "CAM 1",
+    "track_id": 2,
+    "zone": "central_display",
+    "zone_label": "Central Product Display",
+    "timestamp_sec": 8.775,
+    "frame": 263
+  },
+  {
+    "event_type": "zone_exited",
+    "camera_id": "CAM 1",
+    "track_id": 1,
+    "zone": "billing_counter",
+    "zone_label": "Billing / Consultation Counter",
+    "timestamp_sec": 14.948,
+    "frame": 448,
+    "dwell_sec": 14.948
+  },
+  {
+    "event_type": "zone_exited",
+    "camera_id": "CAM 1",
+    "track_id": 2,
+    "zone": "central_display",
+    "zone_label": "Central Product Display",
+    "timestamp_sec": 14.948,
+    "frame": 448,
+    "dwell_sec": 6.173
+  }
+]

@@ -1,0 +1,899 @@
+frame,timestamp_sec,track_id,x_center,y_center,zone,zone_label
+0,0.0,1,1525.8,433.9,billing_counter,Billing / Consultation Counter
+0,0.0,2,883.6,706.6,central_display,Central Product Display
+1,0.033,1,1525.8,433.9,billing_counter,Billing / Consultation Counter
+1,0.033,2,883.6,706.6,central_display,Central Product Display
+2,0.067,1,1525.8,433.9,billing_counter,Billing / Consultation Counter
+2,0.067,2,883.6,706.6,central_display,Central Product Display
+3,0.1,1,1526.1,434.1,billing_counter,Billing / Consultation Counter
+3,0.1,2,883.9,705.7,central_display,Central Product Display
+4,0.133,1,1526.5,434.1,billing_counter,Billing / Consultation Counter
+4,0.133,2,884.6,705.4,central_display,Central Product Display
+5,0.167,1,1526.4,434.7,billing_counter,Billing / Consultation Counter
+5,0.167,2,885.5,704.6,central_display,Central Product Display
+6,0.2,1,1526.6,434.9,billing_counter,Billing / Consultation Counter
+6,0.2,2,892.0,703.7,central_display,Central Product Display
+7,0.234,1,1526.7,435.0,billing_counter,Billing / Consultation Counter
+7,0.234,2,894.3,703.5,central_display,Central Product Display
+8,0.267,1,1526.8,435.2,billing_counter,Billing / Consultation Counter
+8,0.267,2,895.1,703.5,central_display,Central Product Display
+9,0.3,1,1527.5,435.1,billing_counter,Billing / Consultation Counter
+9,0.3,2,898.3,701.2,central_display,Central Product Display
+10,0.334,1,1527.3,435.0,billing_counter,Billing / Consultation Counter
+10,0.334,2,900.6,699.4,central_display,Central Product Display
+11,0.367,1,1526.9,434.8,billing_counter,Billing / Consultation Counter
+11,0.367,2,902.1,698.0,central_display,Central Product Display
+12,0.4,1,1527.2,434.8,billing_counter,Billing / Consultation Counter
+12,0.4,2,901.8,696.9,central_display,Central Product Display
+13,0.434,1,1526.7,434.6,billing_counter,Billing / Consultation Counter
+13,0.434,2,901.7,696.6,central_display,Central Product Display
+14,0.467,1,1526.2,434.6,billing_counter,Billing / Consultation Counter
+14,0.467,2,902.9,696.2,central_display,Central Product Display
+15,0.501,1,1525.9,434.7,billing_counter,Billing / Consultation Counter
+15,0.501,2,897.9,696.0,central_display,Central Product Display
+16,0.534,1,1526.4,434.6,billing_counter,Billing / Consultation Counter
+16,0.534,2,894.1,696.4,central_display,Central Product Display
+17,0.567,1,1526.9,434.1,billing_counter,Billing / Consultation Counter
+17,0.567,2,895.9,694.5,central_display,Central Product Display
+18,0.601,1,1527.1,434.0,billing_counter,Billing / Consultation Counter
+18,0.601,2,893.4,694.3,central_display,Central Product Display
+19,0.634,1,1527.1,433.9,billing_counter,Billing / Consultation Counter
+19,0.634,2,892.4,694.3,central_display,Central Product Display
+20,0.667,1,1527.1,433.8,billing_counter,Billing / Consultation Counter
+20,0.667,2,894.0,692.6,central_display,Central Product Display
+21,0.701,1,1527.1,433.8,billing_counter,Billing / Consultation Counter
+21,0.701,2,897.8,692.0,central_display,Central Product Display
+22,0.734,1,1527.2,433.9,billing_counter,Billing / Consultation Counter
+22,0.734,2,897.3,690.1,central_display,Central Product Display
+23,0.767,1,1527.3,434.2,billing_counter,Billing / Consultation Counter
+23,0.767,2,897.3,688.7,central_display,Central Product Display
+24,0.801,1,1527.1,434.4,billing_counter,Billing / Consultation Counter
+24,0.801,2,898.3,688.2,central_display,Central Product Display
+25,0.834,1,1527.1,434.4,billing_counter,Billing / Consultation Counter
+25,0.834,2,898.6,688.1,central_display,Central Product Display
+26,0.868,1,1527.4,434.5,billing_counter,Billing / Consultation Counter
+26,0.868,2,899.2,688.1,central_display,Central Product Display
+27,0.901,1,1527.3,434.6,billing_counter,Billing / Consultation Counter
+27,0.901,2,903.0,688.0,central_display,Central Product Display
+28,0.934,1,1527.5,434.5,billing_counter,Billing / Consultation Counter
+28,0.934,2,904.5,687.8,central_display,Central Product Display
+29,0.968,1,1526.7,434.2,billing_counter,Billing / Consultation Counter
+29,0.968,2,910.5,687.3,central_display,Central Product Display
+30,1.001,1,1525.9,434.3,billing_counter,Billing / Consultation Counter
+30,1.001,2,910.9,687.7,central_display,Central Product Display
+31,1.034,1,1525.7,434.4,billing_counter,Billing / Consultation Counter
+31,1.034,2,910.9,687.9,central_display,Central Product Display
+32,1.068,1,1525.4,434.6,billing_counter,Billing / Consultation Counter
+32,1.068,2,915.5,689.0,central_display,Central Product Display
+33,1.101,1,1525.5,435.0,billing_counter,Billing / Consultation Counter
+33,1.101,2,910.8,690.4,central_display,Central Product Display
+34,1.134,1,1526.1,435.2,billing_counter,Billing / Consultation Counter
+34,1.134,2,910.0,690.8,central_display,Central Product Display
+35,1.168,1,1526.5,435.3,billing_counter,Billing / Consultation Counter
+35,1.168,2,915.0,691.7,central_display,Central Product Display
+36,1.201,1,1526.9,435.4,billing_counter,Billing / Consultation Counter
+36,1.201,2,912.7,692.6,central_display,Central Product Display
+37,1.235,1,1527.0,435.4,billing_counter,Billing / Consultation Counter
+37,1.235,2,911.8,692.9,central_display,Central Product Display
+38,1.268,1,1525.5,435.7,billing_counter,Billing / Consultation Counter
+38,1.268,2,925.9,692.0,central_display,Central Product Display
+39,1.301,1,1524.9,435.6,billing_counter,Billing / Consultation Counter
+39,1.301,2,931.1,691.0,central_display,Central Product Display
+40,1.335,1,1524.6,435.6,billing_counter,Billing / Consultation Counter
+40,1.335,2,928.3,690.3,central_display,Central Product Display
+41,1.368,1,1525.0,435.6,billing_counter,Billing / Consultation Counter
+41,1.368,2,935.2,689.1,central_display,Central Product Display
+42,1.401,1,1524.7,435.5,billing_counter,Billing / Consultation Counter
+42,1.401,2,933.9,689.8,central_display,Central Product Display
+43,1.435,1,1524.5,435.5,billing_counter,Billing / Consultation Counter
+43,1.435,2,933.3,690.1,central_display,Central Product Display
+44,1.468,1,1523.6,435.5,billing_counter,Billing / Consultation Counter
+44,1.468,2,941.0,690.4,central_display,Central Product Display
+45,1.502,1,1524.9,435.8,billing_counter,Billing / Consultation Counter
+45,1.502,2,934.6,689.1,central_display,Central Product Display
+46,1.535,1,1524.4,436.2,billing_counter,Billing / Consultation Counter
+46,1.535,2,932.4,688.1,central_display,Central Product Display
+47,1.568,1,1524.8,436.5,billing_counter,Billing / Consultation Counter
+47,1.568,2,941.2,687.6,central_display,Central Product Display
+48,1.602,1,1524.1,436.3,billing_counter,Billing / Consultation Counter
+48,1.602,2,944.7,688.9,central_display,Central Product Display
+49,1.635,1,1523.8,436.2,billing_counter,Billing / Consultation Counter
+49,1.635,2,945.9,689.4,central_display,Central Product Display
+50,1.668,1,1524.8,436.4,billing_counter,Billing / Consultation Counter
+50,1.668,2,946.0,690.9,central_display,Central Product Display
+51,1.702,1,1524.9,436.6,billing_counter,Billing / Consultation Counter
+51,1.702,2,948.7,691.3,central_display,Central Product Display
+52,1.735,1,1526.2,436.4,billing_counter,Billing / Consultation Counter
+52,1.735,2,955.2,692.2,central_display,Central Product Display
+53,1.768,1,1527.1,436.4,billing_counter,Billing / Consultation Counter
+53,1.768,2,959.0,691.6,central_display,Central Product Display
+54,1.802,1,1526.2,436.6,billing_counter,Billing / Consultation Counter
+54,1.802,2,964.6,691.5,central_display,Central Product Display
+55,1.835,1,1526.2,436.7,billing_counter,Billing / Consultation Counter
+55,1.835,2,966.6,691.4,central_display,Central Product Display
+56,1.869,1,1525.5,436.1,billing_counter,Billing / Consultation Counter
+56,1.869,2,970.7,691.2,central_display,Central Product Display
+57,1.902,1,1526.8,436.2,billing_counter,Billing / Consultation Counter
+57,1.902,2,974.5,691.1,central_display,Central Product Display
+58,1.935,1,1526.8,435.4,billing_counter,Billing / Consultation Counter
+58,1.935,2,973.6,689.7,central_display,Central Product Display
+59,1.969,1,1527.1,435.5,billing_counter,Billing / Consultation Counter
+59,1.969,2,976.5,689.1,central_display,Central Product Display
+60,2.002,1,1528.8,435.9,billing_counter,Billing / Consultation Counter
+60,2.002,2,978.7,689.4,central_display,Central Product Display
+61,2.035,1,1529.4,436.1,billing_counter,Billing / Consultation Counter
+61,2.035,2,979.5,689.5,central_display,Central Product Display
+62,2.069,1,1528.8,436.5,billing_counter,Billing / Consultation Counter
+62,2.069,2,989.0,688.1,central_display,Central Product Display
+63,2.102,1,1527.7,437.2,billing_counter,Billing / Consultation Counter
+63,2.102,2,993.5,687.7,central_display,Central Product Display
+64,2.135,1,1528.9,438.0,billing_counter,Billing / Consultation Counter
+64,2.135,2,997.0,688.8,central_display,Central Product Display
+65,2.169,1,1534.3,439.6,billing_counter,Billing / Consultation Counter
+65,2.169,2,1000.7,688.5,central_display,Central Product Display
+66,2.202,1,1538.6,439.4,billing_counter,Billing / Consultation Counter
+66,2.202,2,1001.2,686.2,central_display,Central Product Display
+67,2.236,1,1540.8,439.1,billing_counter,Billing / Consultation Counter
+67,2.236,2,1001.0,685.2,central_display,Central Product Display
+68,2.269,1,1537.1,440.3,billing_counter,Billing / Consultation Counter
+68,2.269,2,1012.8,683.7,central_display,Central Product Display
+69,2.302,1,1534.2,441.2,billing_counter,Billing / Consultation Counter
+69,2.302,2,1016.5,680.2,central_display,Central Product Display
+70,2.336,1,1533.0,441.1,billing_counter,Billing / Consultation Counter
+70,2.336,2,1025.2,677.6,central_display,Central Product Display
+71,2.369,1,1536.3,441.9,billing_counter,Billing / Consultation Counter
+71,2.369,2,1030.7,676.1,central_display,Central Product Display
+72,2.402,1,1540.1,442.0,billing_counter,Billing / Consultation Counter
+72,2.402,2,1037.8,674.5,central_display,Central Product Display
+73,2.436,1,1541.4,442.0,billing_counter,Billing / Consultation Counter
+73,2.436,2,1040.3,673.9,central_display,Central Product Display
+74,2.469,1,1544.0,441.0,billing_counter,Billing / Consultation Counter
+74,2.469,2,1043.2,672.4,central_display,Central Product Display
+75,2.502,1,1545.5,442.3,billing_counter,Billing / Consultation Counter
+75,2.502,2,1043.6,673.1,central_display,Central Product Display
+76,2.536,1,1545.6,444.5,billing_counter,Billing / Consultation Counter
+76,2.536,2,1046.8,673.8,central_display,Central Product Display
+77,2.569,1,1543.0,444.0,billing_counter,Billing / Consultation Counter
+77,2.569,2,1050.6,672.6,central_display,Central Product Display
+78,2.603,1,1544.3,445.2,billing_counter,Billing / Consultation Counter
+78,2.603,2,1054.5,671.4,central_display,Central Product Display
+79,2.636,1,1544.7,445.5,billing_counter,Billing / Consultation Counter
+79,2.636,2,1055.8,671.0,central_display,Central Product Display
+80,2.669,1,1542.7,444.8,billing_counter,Billing / Consultation Counter
+80,2.669,2,1060.6,672.9,central_display,Central Product Display
+81,2.703,1,1535.5,442.9,billing_counter,Billing / Consultation Counter
+81,2.703,2,1068.4,674.2,central_display,Central Product Display
+82,2.736,1,1539.8,443.5,billing_counter,Billing / Consultation Counter
+82,2.736,2,1071.0,674.2,central_display,Central Product Display
+83,2.769,1,1538.3,443.4,billing_counter,Billing / Consultation Counter
+83,2.769,2,1074.5,673.7,central_display,Central Product Display
+84,2.803,1,1532.7,441.3,billing_counter,Billing / Consultation Counter
+84,2.803,2,1075.3,672.8,central_display,Central Product Display
+85,2.836,1,1530.6,440.4,billing_counter,Billing / Consultation Counter
+85,2.836,2,1075.4,672.5,central_display,Central Product Display
+86,2.87,1,1530.5,439.7,billing_counter,Billing / Consultation Counter
+86,2.87,2,1078.2,672.6,central_display,Central Product Display
+87,2.903,1,1531.5,440.4,billing_counter,Billing / Consultation Counter
+87,2.903,2,1083.0,671.3,central_display,Central Product Display
+88,2.936,1,1525.5,441.1,billing_counter,Billing / Consultation Counter
+88,2.936,2,1093.2,670.6,central_display,Central Product Display
+89,2.97,1,1525.6,440.4,billing_counter,Billing / Consultation Counter
+89,2.97,2,1101.6,671.1,central_display,Central Product Display
+90,3.003,1,1525.6,439.1,billing_counter,Billing / Consultation Counter
+90,3.003,2,1105.7,672.2,central_display,Central Product Display
+91,3.036,1,1523.5,439.1,billing_counter,Billing / Consultation Counter
+91,3.036,2,1107.0,672.6,central_display,Central Product Display
+92,3.07,1,1522.0,438.8,billing_counter,Billing / Consultation Counter
+92,3.07,2,1110.4,674.0,central_display,Central Product Display
+93,3.103,1,1520.8,438.6,billing_counter,Billing / Consultation Counter
+93,3.103,2,1112.4,675.3,central_display,Central Product Display
+94,3.136,1,1520.2,438.6,billing_counter,Billing / Consultation Counter
+94,3.136,2,1114.7,677.4,central_display,Central Product Display
+95,3.17,1,1515.1,438.3,billing_counter,Billing / Consultation Counter
+95,3.17,2,1118.3,676.8,central_display,Central Product Display
+96,3.203,1,1514.1,437.9,billing_counter,Billing / Consultation Counter
+96,3.203,2,1120.1,676.9,central_display,Central Product Display
+97,3.237,1,1513.7,437.8,billing_counter,Billing / Consultation Counter
+97,3.237,2,1120.7,676.9,central_display,Central Product Display
+98,3.27,1,1511.7,437.3,billing_counter,Billing / Consultation Counter
+98,3.27,2,1122.8,679.8,central_display,Central Product Display
+99,3.303,1,1510.1,437.6,billing_counter,Billing / Consultation Counter
+99,3.303,2,1119.8,685.8,central_display,Central Product Display
+100,3.337,1,1502.7,438.3,billing_counter,Billing / Consultation Counter
+100,3.337,2,1124.9,689.2,central_display,Central Product Display
+101,3.37,1,1501.4,438.3,billing_counter,Billing / Consultation Counter
+101,3.37,2,1128.4,693.0,central_display,Central Product Display
+102,3.403,1,1499.7,437.1,billing_counter,Billing / Consultation Counter
+102,3.403,2,1131.2,696.6,central_display,Central Product Display
+103,3.437,1,1499.1,436.7,billing_counter,Billing / Consultation Counter
+103,3.437,2,1132.2,697.9,central_display,Central Product Display
+104,3.47,1,1496.9,436.6,billing_counter,Billing / Consultation Counter
+104,3.47,2,1136.4,711.8,central_display,Central Product Display
+105,3.504,1,1496.1,435.7,billing_counter,Billing / Consultation Counter
+105,3.504,2,1135.9,723.9,central_display,Central Product Display
+106,3.537,1,1493.7,435.7,billing_counter,Billing / Consultation Counter
+106,3.537,2,1136.7,733.0,central_display,Central Product Display
+107,3.57,1,1492.8,435.9,billing_counter,Billing / Consultation Counter
+107,3.57,2,1138.3,738.5,central_display,Central Product Display
+108,3.604,1,1489.7,436.2,billing_counter,Billing / Consultation Counter
+108,3.604,2,1140.2,740.4,central_display,Central Product Display
+109,3.637,1,1488.6,436.3,billing_counter,Billing / Consultation Counter
+109,3.637,2,1140.9,740.9,central_display,Central Product Display
+110,3.67,1,1488.1,436.4,billing_counter,Billing / Consultation Counter
+110,3.67,2,1142.4,740.1,central_display,Central Product Display
+111,3.704,1,1486.1,436.5,billing_counter,Billing / Consultation Counter
+111,3.704,2,1143.9,746.3,central_display,Central Product Display
+112,3.737,1,1485.7,436.8,billing_counter,Billing / Consultation Counter
+112,3.737,2,1146.0,751.3,central_display,Central Product Display
+113,3.77,1,1486.2,437.1,billing_counter,Billing / Consultation Counter
+113,3.77,2,1148.2,751.2,central_display,Central Product Display
+114,3.804,1,1486.6,437.5,billing_counter,Billing / Consultation Counter
+114,3.804,2,1150.1,766.5,,
+115,3.837,1,1486.8,437.6,billing_counter,Billing / Consultation Counter
+115,3.837,2,1150.8,772.2,,
+116,3.871,1,1485.7,438.4,billing_counter,Billing / Consultation Counter
+116,3.871,2,1152.6,783.1,,
+117,3.904,1,1485.4,439.4,billing_counter,Billing / Consultation Counter
+117,3.904,2,1154.6,787.3,,
+118,3.937,1,1485.4,439.8,billing_counter,Billing / Consultation Counter
+118,3.937,2,1157.7,792.6,,
+119,3.971,1,1488.8,439.6,billing_counter,Billing / Consultation Counter
+119,3.971,2,1162.0,795.2,,
+120,4.004,1,1489.1,439.6,billing_counter,Billing / Consultation Counter
+120,4.004,2,1166.5,797.6,,
+121,4.037,1,1489.2,439.2,billing_counter,Billing / Consultation Counter
+121,4.037,2,1168.3,798.3,,
+122,4.071,1,1489.0,439.5,billing_counter,Billing / Consultation Counter
+122,4.071,2,1170.8,798.6,,
+123,4.104,1,1488.4,440.2,billing_counter,Billing / Consultation Counter
+123,4.104,2,1175.4,800.0,,
+124,4.137,1,1487.8,439.5,billing_counter,Billing / Consultation Counter
+124,4.137,2,1180.1,800.6,,
+125,4.171,1,1485.7,439.6,billing_counter,Billing / Consultation Counter
+125,4.171,2,1185.0,801.0,,
+126,4.204,1,1484.4,439.8,billing_counter,Billing / Consultation Counter
+126,4.204,2,1191.4,802.0,,
+127,4.238,1,1483.9,439.9,billing_counter,Billing / Consultation Counter
+127,4.238,2,1193.7,802.2,,
+128,4.271,1,1483.2,440.5,billing_counter,Billing / Consultation Counter
+128,4.271,2,1198.1,802.4,,
+129,4.304,1,1484.4,440.0,billing_counter,Billing / Consultation Counter
+129,4.304,2,1203.8,802.6,,
+130,4.338,1,1483.7,439.8,billing_counter,Billing / Consultation Counter
+130,4.338,2,1210.2,803.4,,
+131,4.371,1,1485.7,440.0,billing_counter,Billing / Consultation Counter
+131,4.371,2,1217.3,804.7,,
+132,4.404,1,1486.4,440.7,billing_counter,Billing / Consultation Counter
+132,4.404,2,1225.5,805.8,,
+133,4.438,1,1486.8,441.1,billing_counter,Billing / Consultation Counter
+133,4.438,2,1228.3,806.1,,
+134,4.471,1,1490.5,442.9,billing_counter,Billing / Consultation Counter
+134,4.471,2,1234.0,807.5,,
+135,4.505,1,1503.7,442.0,billing_counter,Billing / Consultation Counter
+135,4.505,2,1241.6,808.7,,
+136,4.538,1,1508.9,441.6,billing_counter,Billing / Consultation Counter
+136,4.538,2,1248.0,809.5,,
+137,4.571,1,1513.6,441.1,billing_counter,Billing / Consultation Counter
+137,4.571,2,1255.4,811.4,,
+138,4.605,1,1515.5,441.1,billing_counter,Billing / Consultation Counter
+138,4.605,2,1261.3,813.7,,
+139,4.638,1,1516.1,441.0,billing_counter,Billing / Consultation Counter
+139,4.638,2,1263.3,814.5,,
+140,4.671,1,1516.4,440.4,billing_counter,Billing / Consultation Counter
+140,4.671,2,1269.7,816.0,,
+141,4.705,1,1516.7,440.3,billing_counter,Billing / Consultation Counter
+141,4.705,2,1277.0,816.5,,
+142,4.738,1,1516.7,440.2,billing_counter,Billing / Consultation Counter
+142,4.738,2,1279.7,817.6,,
+143,4.771,1,1517.2,439.2,billing_counter,Billing / Consultation Counter
+143,4.771,2,1283.2,818.4,,
+144,4.805,1,1517.8,439.0,billing_counter,Billing / Consultation Counter
+144,4.805,2,1286.4,818.2,,
+145,4.838,1,1517.8,439.3,billing_counter,Billing / Consultation Counter
+145,4.838,2,1290.0,817.2,,
+146,4.872,1,1518.0,439.0,billing_counter,Billing / Consultation Counter
+146,4.872,2,1292.8,817.9,,
+147,4.905,1,1517.8,438.8,billing_counter,Billing / Consultation Counter
+147,4.905,2,1298.1,819.3,,
+148,4.938,1,1518.0,438.4,billing_counter,Billing / Consultation Counter
+148,4.938,2,1299.3,821.0,,
+149,4.972,1,1519.8,437.9,billing_counter,Billing / Consultation Counter
+149,4.972,2,1299.4,821.9,,
+150,5.005,1,1520.9,437.4,billing_counter,Billing / Consultation Counter
+150,5.005,2,1302.5,822.7,,
+151,5.038,1,1521.1,437.4,billing_counter,Billing / Consultation Counter
+151,5.038,2,1303.1,823.0,,
+152,5.072,1,1521.4,436.9,billing_counter,Billing / Consultation Counter
+152,5.072,2,1300.8,823.9,,
+153,5.105,1,1521.5,436.6,billing_counter,Billing / Consultation Counter
+153,5.105,2,1299.7,825.4,,
+154,5.138,1,1522.4,436.1,billing_counter,Billing / Consultation Counter
+154,5.138,2,1294.8,827.3,,
+155,5.172,1,1522.1,436.4,billing_counter,Billing / Consultation Counter
+155,5.172,2,1294.8,829.2,,
+156,5.205,1,1522.5,436.0,billing_counter,Billing / Consultation Counter
+156,5.205,2,1294.7,831.0,,
+157,5.239,1,1522.6,435.8,billing_counter,Billing / Consultation Counter
+157,5.239,2,1294.5,831.7,,
+158,5.272,1,1522.1,435.7,billing_counter,Billing / Consultation Counter
+158,5.272,2,1300.1,832.4,,
+159,5.305,1,1521.6,435.9,billing_counter,Billing / Consultation Counter
+159,5.305,2,1291.2,835.2,,
+160,5.339,1,1521.1,436.6,billing_counter,Billing / Consultation Counter
+160,5.339,2,1288.2,837.2,,
+161,5.372,1,1521.4,436.1,billing_counter,Billing / Consultation Counter
+161,5.372,2,1292.9,838.7,,
+162,5.405,1,1520.9,436.1,billing_counter,Billing / Consultation Counter
+162,5.405,2,1285.6,840.0,,
+163,5.439,1,1520.8,436.1,billing_counter,Billing / Consultation Counter
+163,5.439,2,1282.9,840.4,,
+164,5.472,1,1521.1,436.1,billing_counter,Billing / Consultation Counter
+164,5.472,2,1279.0,841.1,,
+165,5.506,1,1521.0,436.8,billing_counter,Billing / Consultation Counter
+165,5.506,2,1287.4,841.4,,
+166,5.539,1,1519.8,436.4,billing_counter,Billing / Consultation Counter
+166,5.539,2,1295.1,842.8,,
+167,5.572,1,1518.9,436.0,billing_counter,Billing / Consultation Counter
+167,5.572,2,1294.5,843.7,,
+168,5.606,1,1519.1,435.7,billing_counter,Billing / Consultation Counter
+168,5.606,2,1292.7,845.1,,
+169,5.639,1,1519.2,435.5,billing_counter,Billing / Consultation Counter
+169,5.639,2,1291.9,845.6,,
+170,5.672,1,1516.1,435.4,billing_counter,Billing / Consultation Counter
+170,5.672,2,1290.5,846.9,,
+171,5.706,1,1513.5,435.2,billing_counter,Billing / Consultation Counter
+171,5.706,2,1292.8,848.1,,
+172,5.739,1,1510.3,435.3,billing_counter,Billing / Consultation Counter
+172,5.739,2,1296.6,849.2,,
+173,5.772,1,1508.7,437.3,billing_counter,Billing / Consultation Counter
+173,5.772,2,1293.8,850.5,,
+174,5.806,1,1510.8,436.4,billing_counter,Billing / Consultation Counter
+174,5.806,2,1290.6,851.1,,
+175,5.839,1,1511.4,436.2,billing_counter,Billing / Consultation Counter
+175,5.839,2,1289.3,851.2,,
+176,5.873,1,1511.8,435.8,billing_counter,Billing / Consultation Counter
+176,5.873,2,1285.8,851.6,,
+177,5.906,1,1509.9,435.6,billing_counter,Billing / Consultation Counter
+177,5.906,2,1284.1,852.0,,
+178,5.939,1,1508.4,435.6,billing_counter,Billing / Consultation Counter
+178,5.939,2,1281.2,852.6,,
+179,5.973,1,1509.3,435.9,billing_counter,Billing / Consultation Counter
+179,5.973,2,1283.8,852.8,,
+180,6.006,1,1510.2,436.4,billing_counter,Billing / Consultation Counter
+180,6.006,2,1280.4,852.7,,
+181,6.039,1,1510.6,436.5,billing_counter,Billing / Consultation Counter
+181,6.039,2,1279.2,852.7,,
+182,6.073,1,1510.7,437.1,billing_counter,Billing / Consultation Counter
+182,6.073,2,1281.0,852.9,,
+183,6.106,1,1508.2,437.2,billing_counter,Billing / Consultation Counter
+183,6.106,2,1283.1,853.2,,
+184,6.139,1,1507.7,436.9,billing_counter,Billing / Consultation Counter
+184,6.139,2,1286.4,853.6,,
+185,6.173,1,1508.0,436.9,billing_counter,Billing / Consultation Counter
+185,6.173,2,1283.8,854.0,,
+186,6.206,1,1508.7,437.6,billing_counter,Billing / Consultation Counter
+186,6.206,2,1273.2,854.6,,
+187,6.24,1,1508.3,438.1,billing_counter,Billing / Consultation Counter
+187,6.24,2,1268.9,854.8,,
+188,6.273,1,1508.9,438.7,billing_counter,Billing / Consultation Counter
+188,6.273,2,1267.5,854.9,,
+189,6.306,1,1511.2,439.3,billing_counter,Billing / Consultation Counter
+189,6.306,2,1266.6,855.2,,
+190,6.34,1,1512.7,439.8,billing_counter,Billing / Consultation Counter
+190,6.34,2,1262.7,855.5,,
+191,6.373,1,1516.9,438.5,billing_counter,Billing / Consultation Counter
+191,6.373,2,1259.0,855.9,,
+192,6.406,1,1518.5,438.1,billing_counter,Billing / Consultation Counter
+192,6.406,2,1268.9,855.8,,
+193,6.44,1,1519.0,437.9,billing_counter,Billing / Consultation Counter
+193,6.44,2,1272.7,855.7,,
+194,6.473,1,1519.5,438.7,billing_counter,Billing / Consultation Counter
+194,6.473,2,1263.0,857.3,,
+195,6.506,1,1520.5,436.9,billing_counter,Billing / Consultation Counter
+195,6.506,2,1270.0,856.9,,
+196,6.54,1,1521.6,437.3,billing_counter,Billing / Consultation Counter
+196,6.54,2,1275.5,858.1,,
+197,6.573,1,1522.4,436.2,billing_counter,Billing / Consultation Counter
+197,6.573,2,1274.9,859.5,,
+198,6.607,1,1523.4,435.7,billing_counter,Billing / Consultation Counter
+198,6.607,2,1275.1,860.8,,
+199,6.64,1,1523.7,435.3,billing_counter,Billing / Consultation Counter
+199,6.64,2,1275.2,861.3,,
+200,6.673,1,1524.4,436.3,billing_counter,Billing / Consultation Counter
+200,6.673,2,1272.4,862.5,,
+201,6.707,1,1524.3,436.6,billing_counter,Billing / Consultation Counter
+201,6.707,2,1271.1,864.6,,
+202,6.74,1,1524.0,436.7,billing_counter,Billing / Consultation Counter
+202,6.74,2,1270.2,866.4,,
+203,6.773,1,1523.3,437.4,billing_counter,Billing / Consultation Counter
+203,6.773,2,1270.3,867.3,,
+204,6.807,1,1522.9,437.8,billing_counter,Billing / Consultation Counter
+204,6.807,2,1272.2,869.0,,
+205,6.84,1,1522.8,437.9,billing_counter,Billing / Consultation Counter
+205,6.84,2,1272.9,869.6,,
+206,6.874,1,1522.8,437.9,billing_counter,Billing / Consultation Counter
+206,6.874,2,1270.8,870.8,,
+207,6.907,1,1523.5,437.6,billing_counter,Billing / Consultation Counter
+207,6.907,2,1267.6,872.9,,
+208,6.94,1,1523.7,438.0,billing_counter,Billing / Consultation Counter
+208,6.94,2,1264.5,874.2,,
+209,6.974,1,1523.4,438.2,billing_counter,Billing / Consultation Counter
+209,6.974,2,1261.8,875.7,,
+210,7.007,1,1523.0,438.6,billing_counter,Billing / Consultation Counter
+210,7.007,2,1259.4,878.1,,
+211,7.04,1,1522.8,438.7,billing_counter,Billing / Consultation Counter
+211,7.04,2,1258.4,877.4,,
+212,7.074,1,1522.6,438.6,billing_counter,Billing / Consultation Counter
+212,7.074,2,1256.0,877.7,,
+213,7.107,1,1522.6,438.6,billing_counter,Billing / Consultation Counter
+213,7.107,2,1254.3,878.6,,
+214,7.14,1,1522.8,438.5,billing_counter,Billing / Consultation Counter
+214,7.14,2,1252.7,880.4,,
+215,7.174,1,1522.6,438.7,billing_counter,Billing / Consultation Counter
+215,7.174,2,1249.2,881.5,,
+216,7.207,1,1522.3,439.1,billing_counter,Billing / Consultation Counter
+216,7.207,2,1246.6,883.2,,
+217,7.241,1,1522.2,439.2,billing_counter,Billing / Consultation Counter
+217,7.241,2,1245.7,883.8,,
+218,7.274,1,1521.9,439.4,billing_counter,Billing / Consultation Counter
+218,7.274,2,1244.8,885.7,,
+219,7.307,1,1521.5,439.5,billing_counter,Billing / Consultation Counter
+219,7.307,2,1244.0,887.8,,
+220,7.341,1,1522.1,439.8,billing_counter,Billing / Consultation Counter
+220,7.341,2,1243.0,889.5,,
+221,7.374,1,1522.3,440.0,billing_counter,Billing / Consultation Counter
+221,7.374,2,1239.2,891.5,,
+222,7.407,1,1523.0,440.1,billing_counter,Billing / Consultation Counter
+222,7.407,2,1235.6,892.0,,
+223,7.441,1,1523.2,440.1,billing_counter,Billing / Consultation Counter
+223,7.441,2,1234.3,892.0,,
+224,7.474,1,1522.6,439.7,billing_counter,Billing / Consultation Counter
+224,7.474,2,1233.9,892.4,,
+225,7.508,1,1522.0,440.1,billing_counter,Billing / Consultation Counter
+225,7.508,2,1236.6,891.9,,
+226,7.541,1,1522.6,438.4,billing_counter,Billing / Consultation Counter
+226,7.541,2,1237.3,892.1,,
+227,7.574,1,1521.8,439.7,billing_counter,Billing / Consultation Counter
+227,7.574,2,1237.2,893.2,,
+228,7.608,1,1522.1,439.8,billing_counter,Billing / Consultation Counter
+228,7.608,2,1235.8,893.3,,
+229,7.641,1,1522.1,439.9,billing_counter,Billing / Consultation Counter
+229,7.641,2,1235.0,893.3,,
+230,7.674,1,1522.2,438.1,billing_counter,Billing / Consultation Counter
+230,7.674,2,1234.6,893.4,,
+231,7.708,1,1523.2,439.2,billing_counter,Billing / Consultation Counter
+231,7.708,2,1232.6,893.7,,
+232,7.741,1,1522.9,438.0,billing_counter,Billing / Consultation Counter
+232,7.741,2,1228.2,893.2,,
+233,7.774,1,1522.9,438.8,billing_counter,Billing / Consultation Counter
+233,7.774,2,1225.2,892.5,,
+234,7.808,1,1522.0,437.6,billing_counter,Billing / Consultation Counter
+234,7.808,2,1222.2,892.5,,
+235,7.841,1,1521.7,437.1,billing_counter,Billing / Consultation Counter
+235,7.841,2,1221.1,892.5,,
+236,7.875,1,1522.2,436.6,billing_counter,Billing / Consultation Counter
+236,7.875,2,1219.3,892.5,,
+237,7.908,1,1523.1,438.2,billing_counter,Billing / Consultation Counter
+237,7.908,2,1215.3,891.2,,
+238,7.941,1,1523.2,438.7,billing_counter,Billing / Consultation Counter
+238,7.941,2,1212.4,891.0,,
+239,7.975,1,1524.0,439.0,billing_counter,Billing / Consultation Counter
+239,7.975,2,1208.3,888.8,,
+240,8.008,1,1523.8,439.3,billing_counter,Billing / Consultation Counter
+240,8.008,2,1204.0,887.9,,
+241,8.041,1,1523.6,439.5,billing_counter,Billing / Consultation Counter
+241,8.041,2,1202.4,887.6,,
+242,8.075,1,1523.1,438.7,billing_counter,Billing / Consultation Counter
+242,8.075,2,1200.1,886.8,,
+243,8.108,1,1523.2,438.6,billing_counter,Billing / Consultation Counter
+243,8.108,2,1198.4,885.7,,
+244,8.141,1,1522.6,438.8,billing_counter,Billing / Consultation Counter
+244,8.141,2,1198.7,885.1,,
+245,8.175,1,1522.4,439.9,billing_counter,Billing / Consultation Counter
+245,8.175,2,1195.2,883.3,,
+246,8.208,1,1521.8,440.3,billing_counter,Billing / Consultation Counter
+246,8.208,2,1193.3,881.9,,
+247,8.242,1,1521.6,440.4,billing_counter,Billing / Consultation Counter
+247,8.242,2,1192.6,881.4,,
+248,8.275,1,1522.2,440.7,billing_counter,Billing / Consultation Counter
+248,8.275,2,1189.3,880.6,,
+249,8.308,1,1522.4,440.2,billing_counter,Billing / Consultation Counter
+249,8.308,2,1187.1,881.1,,
+250,8.342,1,1521.4,440.5,billing_counter,Billing / Consultation Counter
+250,8.342,2,1185.6,880.6,,
+251,8.375,1,1521.7,440.6,billing_counter,Billing / Consultation Counter
+251,8.375,2,1182.7,880.2,,
+252,8.408,1,1522.4,439.7,billing_counter,Billing / Consultation Counter
+252,8.408,2,1180.6,879.1,,
+253,8.442,1,1522.8,439.2,billing_counter,Billing / Consultation Counter
+253,8.442,2,1180.1,878.9,,
+254,8.475,1,1522.9,439.9,billing_counter,Billing / Consultation Counter
+254,8.475,2,1177.1,878.8,,
+255,8.508,1,1523.5,440.3,billing_counter,Billing / Consultation Counter
+255,8.508,2,1172.2,878.5,,
+256,8.542,1,1523.2,440.6,billing_counter,Billing / Consultation Counter
+256,8.542,2,1167.8,878.5,,
+257,8.575,1,1522.6,439.9,billing_counter,Billing / Consultation Counter
+257,8.575,2,1164.0,878.9,,
+258,8.609,1,1521.6,440.2,billing_counter,Billing / Consultation Counter
+258,8.609,2,1162.0,879.6,,
+259,8.642,1,1521.1,440.3,billing_counter,Billing / Consultation Counter
+259,8.642,2,1161.8,879.5,,
+260,8.675,1,1521.4,438.7,billing_counter,Billing / Consultation Counter
+260,8.675,2,1160.3,879.4,,
+261,8.709,1,1521.4,437.6,billing_counter,Billing / Consultation Counter
+261,8.709,2,1157.8,879.6,,
+262,8.742,1,1520.9,438.1,billing_counter,Billing / Consultation Counter
+262,8.742,2,1152.4,880.8,,
+263,8.775,1,1520.6,438.1,billing_counter,Billing / Consultation Counter
+263,8.775,2,1148.3,881.9,central_display,Central Product Display
+264,8.809,1,1519.4,439.1,billing_counter,Billing / Consultation Counter
+264,8.809,2,1143.4,884.2,central_display,Central Product Display
+265,8.842,1,1519.0,439.6,billing_counter,Billing / Consultation Counter
+265,8.842,2,1141.6,885.1,central_display,Central Product Display
+266,8.876,1,1515.5,439.7,billing_counter,Billing / Consultation Counter
+266,8.876,2,1140.1,886.1,central_display,Central Product Display
+267,8.909,1,1511.9,440.2,billing_counter,Billing / Consultation Counter
+267,8.909,2,1137.8,886.4,central_display,Central Product Display
+268,8.942,1,1513.7,439.9,billing_counter,Billing / Consultation Counter
+268,8.942,2,1138.0,887.2,central_display,Central Product Display
+269,8.976,1,1509.5,440.5,billing_counter,Billing / Consultation Counter
+269,8.976,2,1134.2,887.5,central_display,Central Product Display
+270,9.009,1,1506.2,440.5,billing_counter,Billing / Consultation Counter
+270,9.009,2,1131.2,889.6,central_display,Central Product Display
+271,9.042,1,1505.0,440.5,billing_counter,Billing / Consultation Counter
+271,9.042,2,1130.1,890.3,central_display,Central Product Display
+272,9.076,1,1502.1,440.4,billing_counter,Billing / Consultation Counter
+272,9.076,2,1126.8,889.9,central_display,Central Product Display
+273,9.109,1,1503.3,440.2,billing_counter,Billing / Consultation Counter
+273,9.109,2,1126.6,890.3,central_display,Central Product Display
+274,9.142,1,1503.8,440.6,billing_counter,Billing / Consultation Counter
+274,9.142,2,1120.7,891.2,central_display,Central Product Display
+275,9.176,1,1505.3,440.7,billing_counter,Billing / Consultation Counter
+275,9.176,2,1119.0,891.3,central_display,Central Product Display
+276,9.209,1,1506.2,441.4,billing_counter,Billing / Consultation Counter
+276,9.209,2,1113.9,892.1,central_display,Central Product Display
+277,9.243,1,1506.6,441.8,billing_counter,Billing / Consultation Counter
+277,9.243,2,1112.1,892.3,central_display,Central Product Display
+278,9.276,1,1507.6,441.6,billing_counter,Billing / Consultation Counter
+278,9.276,2,1109.8,893.4,central_display,Central Product Display
+279,9.309,1,1507.8,441.7,billing_counter,Billing / Consultation Counter
+279,9.309,2,1107.4,893.1,central_display,Central Product Display
+280,9.343,1,1509.1,440.8,billing_counter,Billing / Consultation Counter
+280,9.343,2,1107.3,892.8,central_display,Central Product Display
+281,9.376,1,1508.9,441.1,billing_counter,Billing / Consultation Counter
+281,9.376,2,1104.9,893.3,central_display,Central Product Display
+282,9.409,1,1509.9,439.8,billing_counter,Billing / Consultation Counter
+282,9.409,2,1101.2,893.8,central_display,Central Product Display
+283,9.443,1,1510.3,439.3,billing_counter,Billing / Consultation Counter
+283,9.443,2,1099.8,894.0,central_display,Central Product Display
+284,9.476,1,1508.5,440.8,billing_counter,Billing / Consultation Counter
+284,9.476,2,1097.8,894.6,central_display,Central Product Display
+285,9.51,1,1508.6,441.2,billing_counter,Billing / Consultation Counter
+285,9.51,2,1097.0,895.0,central_display,Central Product Display
+286,9.543,1,1510.6,439.7,billing_counter,Billing / Consultation Counter
+286,9.543,2,1095.2,894.9,central_display,Central Product Display
+287,9.576,1,1510.0,440.6,billing_counter,Billing / Consultation Counter
+287,9.576,2,1092.4,895.3,central_display,Central Product Display
+288,9.61,1,1510.5,440.8,billing_counter,Billing / Consultation Counter
+288,9.61,2,1089.3,895.8,central_display,Central Product Display
+289,9.643,1,1511.1,440.3,billing_counter,Billing / Consultation Counter
+289,9.643,2,1088.2,895.9,central_display,Central Product Display
+290,9.676,1,1513.0,440.2,billing_counter,Billing / Consultation Counter
+290,9.676,2,1085.8,896.1,central_display,Central Product Display
+291,9.71,1,1513.7,440.2,billing_counter,Billing / Consultation Counter
+291,9.71,2,1083.7,896.2,central_display,Central Product Display
+292,9.743,1,1514.1,440.0,billing_counter,Billing / Consultation Counter
+292,9.743,2,1082.0,895.1,central_display,Central Product Display
+293,9.776,1,1514.0,440.2,billing_counter,Billing / Consultation Counter
+293,9.776,2,1080.4,896.0,central_display,Central Product Display
+294,9.81,1,1514.3,440.9,billing_counter,Billing / Consultation Counter
+294,9.81,2,1079.1,896.3,central_display,Central Product Display
+295,9.843,1,1514.5,441.0,billing_counter,Billing / Consultation Counter
+295,9.843,2,1078.8,896.4,central_display,Central Product Display
+296,9.877,1,1514.5,441.1,billing_counter,Billing / Consultation Counter
+296,9.877,2,1077.1,896.9,central_display,Central Product Display
+297,9.91,1,1514.7,440.9,billing_counter,Billing / Consultation Counter
+297,9.91,2,1075.5,897.7,central_display,Central Product Display
+298,9.943,1,1515.2,440.3,billing_counter,Billing / Consultation Counter
+298,9.943,2,1073.1,897.7,central_display,Central Product Display
+299,9.977,1,1515.5,438.9,billing_counter,Billing / Consultation Counter
+299,9.977,2,1071.3,898.2,central_display,Central Product Display
+300,10.01,1,1514.7,439.9,billing_counter,Billing / Consultation Counter
+300,10.01,2,1069.3,898.4,central_display,Central Product Display
+301,10.043,1,1514.4,440.3,billing_counter,Billing / Consultation Counter
+301,10.043,2,1068.6,898.5,central_display,Central Product Display
+302,10.077,1,1514.4,438.5,billing_counter,Billing / Consultation Counter
+302,10.077,2,1067.2,898.7,central_display,Central Product Display
+303,10.11,1,1513.9,438.5,billing_counter,Billing / Consultation Counter
+303,10.11,2,1065.5,898.6,central_display,Central Product Display
+304,10.143,1,1512.8,438.9,billing_counter,Billing / Consultation Counter
+304,10.143,2,1062.4,899.0,central_display,Central Product Display
+305,10.177,1,1512.8,438.7,billing_counter,Billing / Consultation Counter
+305,10.177,2,1059.6,899.1,central_display,Central Product Display
+306,10.21,1,1512.6,438.9,billing_counter,Billing / Consultation Counter
+306,10.21,2,1057.9,899.3,central_display,Central Product Display
+307,10.244,1,1512.5,438.4,billing_counter,Billing / Consultation Counter
+307,10.244,2,1057.1,899.5,central_display,Central Product Display
+308,10.277,1,1512.8,438.1,billing_counter,Billing / Consultation Counter
+308,10.277,2,1055.8,899.6,central_display,Central Product Display
+309,10.31,1,1512.9,438.0,billing_counter,Billing / Consultation Counter
+309,10.31,2,1053.0,900.5,central_display,Central Product Display
+310,10.344,1,1513.4,436.7,billing_counter,Billing / Consultation Counter
+310,10.344,2,1050.8,901.0,central_display,Central Product Display
+311,10.377,1,1513.4,436.6,billing_counter,Billing / Consultation Counter
+311,10.377,2,1049.4,901.3,central_display,Central Product Display
+312,10.41,1,1513.5,436.8,billing_counter,Billing / Consultation Counter
+312,10.41,2,1048.9,901.5,central_display,Central Product Display
+313,10.444,1,1513.5,436.9,billing_counter,Billing / Consultation Counter
+313,10.444,2,1048.7,901.5,central_display,Central Product Display
+314,10.477,1,1513.6,436.9,billing_counter,Billing / Consultation Counter
+314,10.477,2,1047.8,901.6,central_display,Central Product Display
+315,10.511,1,1513.8,436.8,billing_counter,Billing / Consultation Counter
+315,10.511,2,1046.4,902.1,central_display,Central Product Display
+316,10.544,1,1513.9,436.8,billing_counter,Billing / Consultation Counter
+316,10.544,2,1044.4,902.6,central_display,Central Product Display
+317,10.577,1,1514.0,437.1,billing_counter,Billing / Consultation Counter
+317,10.577,2,1044.9,902.9,central_display,Central Product Display
+318,10.611,1,1513.9,437.2,billing_counter,Billing / Consultation Counter
+318,10.611,2,1044.4,902.8,central_display,Central Product Display
+319,10.644,1,1514.3,436.3,billing_counter,Billing / Consultation Counter
+319,10.644,2,1041.9,903.1,central_display,Central Product Display
+320,10.677,1,1514.4,435.9,billing_counter,Billing / Consultation Counter
+320,10.677,2,1039.0,903.0,central_display,Central Product Display
+321,10.711,1,1514.6,435.8,billing_counter,Billing / Consultation Counter
+321,10.711,2,1037.2,903.8,central_display,Central Product Display
+322,10.744,1,1514.7,435.8,billing_counter,Billing / Consultation Counter
+322,10.744,2,1035.8,904.4,central_display,Central Product Display
+323,10.777,1,1515.0,435.9,billing_counter,Billing / Consultation Counter
+323,10.777,2,1035.4,904.6,central_display,Central Product Display
+324,10.811,1,1515.3,435.9,billing_counter,Billing / Consultation Counter
+324,10.811,2,1035.2,904.7,central_display,Central Product Display
+325,10.844,1,1515.4,435.9,billing_counter,Billing / Consultation Counter
+325,10.844,2,1035.2,904.7,central_display,Central Product Display
+326,10.878,1,1515.5,436.0,billing_counter,Billing / Consultation Counter
+326,10.878,2,1033.4,904.7,central_display,Central Product Display
+327,10.911,1,1515.9,435.9,billing_counter,Billing / Consultation Counter
+327,10.911,2,1033.5,904.7,central_display,Central Product Display
+328,10.944,1,1515.7,436.0,billing_counter,Billing / Consultation Counter
+328,10.944,2,1032.2,904.8,central_display,Central Product Display
+329,10.978,1,1515.7,436.0,billing_counter,Billing / Consultation Counter
+329,10.978,2,1031.7,904.7,central_display,Central Product Display
+330,11.011,1,1515.4,435.9,billing_counter,Billing / Consultation Counter
+330,11.011,2,1031.5,904.9,central_display,Central Product Display
+331,11.044,1,1515.3,435.9,billing_counter,Billing / Consultation Counter
+331,11.044,2,1031.4,905.0,central_display,Central Product Display
+332,11.078,1,1515.4,435.9,billing_counter,Billing / Consultation Counter
+332,11.078,2,1030.8,905.4,central_display,Central Product Display
+333,11.111,1,1515.5,435.7,billing_counter,Billing / Consultation Counter
+333,11.111,2,1029.4,905.8,central_display,Central Product Display
+334,11.144,1,1515.7,435.7,billing_counter,Billing / Consultation Counter
+334,11.144,2,1029.4,906.2,central_display,Central Product Display
+335,11.178,1,1515.8,435.7,billing_counter,Billing / Consultation Counter
+335,11.178,2,1029.7,906.5,central_display,Central Product Display
+336,11.211,1,1516.0,435.7,billing_counter,Billing / Consultation Counter
+336,11.211,2,1030.1,906.5,central_display,Central Product Display
+337,11.245,1,1516.0,435.6,billing_counter,Billing / Consultation Counter
+337,11.245,2,1030.3,906.4,central_display,Central Product Display
+338,11.278,1,1516.2,435.5,billing_counter,Billing / Consultation Counter
+338,11.278,2,1030.7,906.4,central_display,Central Product Display
+339,11.311,1,1516.4,435.4,billing_counter,Billing / Consultation Counter
+339,11.311,2,1030.4,906.4,central_display,Central Product Display
+340,11.345,1,1516.0,436.2,billing_counter,Billing / Consultation Counter
+340,11.345,2,1030.2,906.4,central_display,Central Product Display
+341,11.378,1,1515.6,436.5,billing_counter,Billing / Consultation Counter
+341,11.378,2,1030.1,906.5,central_display,Central Product Display
+342,11.411,1,1515.1,437.0,billing_counter,Billing / Consultation Counter
+342,11.411,2,1029.7,906.8,central_display,Central Product Display
+343,11.445,1,1514.9,437.3,billing_counter,Billing / Consultation Counter
+343,11.445,2,1029.5,906.9,central_display,Central Product Display
+344,11.478,1,1515.1,436.7,billing_counter,Billing / Consultation Counter
+344,11.478,2,1028.9,906.8,central_display,Central Product Display
+345,11.511,1,1515.3,436.3,billing_counter,Billing / Consultation Counter
+345,11.511,2,1028.7,907.0,central_display,Central Product Display
+346,11.545,1,1515.4,436.3,billing_counter,Billing / Consultation Counter
+346,11.545,2,1028.7,907.3,central_display,Central Product Display
+347,11.578,1,1515.5,436.0,billing_counter,Billing / Consultation Counter
+347,11.578,2,1028.7,907.5,central_display,Central Product Display
+348,11.612,1,1515.9,436.0,billing_counter,Billing / Consultation Counter
+348,11.612,2,1028.7,907.7,central_display,Central Product Display
+349,11.645,1,1516.0,436.0,billing_counter,Billing / Consultation Counter
+349,11.645,2,1028.7,907.8,central_display,Central Product Display
+350,11.678,1,1516.0,435.9,billing_counter,Billing / Consultation Counter
+350,11.678,2,1029.2,907.9,central_display,Central Product Display
+351,11.712,1,1515.8,435.8,billing_counter,Billing / Consultation Counter
+351,11.712,2,1029.1,907.9,central_display,Central Product Display
+352,11.745,1,1515.7,435.8,billing_counter,Billing / Consultation Counter
+352,11.745,2,1028.8,907.8,central_display,Central Product Display
+353,11.778,1,1516.2,435.6,billing_counter,Billing / Consultation Counter
+353,11.778,2,1028.3,907.8,central_display,Central Product Display
+354,11.812,1,1516.3,435.5,billing_counter,Billing / Consultation Counter
+354,11.812,2,1027.6,908.1,central_display,Central Product Display
+355,11.845,1,1516.3,435.4,billing_counter,Billing / Consultation Counter
+355,11.845,2,1027.3,908.2,central_display,Central Product Display
+356,11.879,1,1516.5,435.4,billing_counter,Billing / Consultation Counter
+356,11.879,2,1026.0,907.8,central_display,Central Product Display
+357,11.912,1,1516.6,435.4,billing_counter,Billing / Consultation Counter
+357,11.912,2,1024.8,907.6,central_display,Central Product Display
+358,11.945,1,1516.4,435.5,billing_counter,Billing / Consultation Counter
+358,11.945,2,1027.1,908.1,central_display,Central Product Display
+359,11.979,1,1516.0,435.8,billing_counter,Billing / Consultation Counter
+359,11.979,2,1027.8,908.4,central_display,Central Product Display
+360,12.012,1,1515.8,435.9,billing_counter,Billing / Consultation Counter
+360,12.012,2,1029.9,908.3,central_display,Central Product Display
+361,12.045,1,1515.7,436.0,billing_counter,Billing / Consultation Counter
+361,12.045,2,1029.7,908.3,central_display,Central Product Display
+362,12.079,1,1515.5,435.9,billing_counter,Billing / Consultation Counter
+362,12.079,2,1021.9,908.4,central_display,Central Product Display
+363,12.112,1,1515.3,435.9,billing_counter,Billing / Consultation Counter
+363,12.112,2,1022.0,908.3,central_display,Central Product Display
+364,12.145,1,1515.1,435.9,billing_counter,Billing / Consultation Counter
+364,12.145,2,1023.6,908.1,central_display,Central Product Display
+365,12.179,1,1515.0,436.1,billing_counter,Billing / Consultation Counter
+365,12.179,2,1016.1,908.3,central_display,Central Product Display
+366,12.212,1,1515.0,436.2,billing_counter,Billing / Consultation Counter
+366,12.212,2,1019.7,908.4,central_display,Central Product Display
+367,12.246,1,1515.0,436.2,billing_counter,Billing / Consultation Counter
+367,12.246,2,1021.1,908.4,central_display,Central Product Display
+368,12.279,1,1515.1,436.2,billing_counter,Billing / Consultation Counter
+368,12.279,2,1016.6,908.4,central_display,Central Product Display
+369,12.312,1,1514.9,436.3,billing_counter,Billing / Consultation Counter
+369,12.312,2,1010.9,908.3,central_display,Central Product Display
+370,12.346,1,1514.4,436.9,billing_counter,Billing / Consultation Counter
+370,12.346,2,1019.5,908.3,central_display,Central Product Display
+371,12.379,1,1514.3,436.8,billing_counter,Billing / Consultation Counter
+371,12.379,2,1025.5,908.3,central_display,Central Product Display
+372,12.412,1,1514.2,437.0,billing_counter,Billing / Consultation Counter
+372,12.412,2,1027.2,908.4,central_display,Central Product Display
+373,12.446,1,1514.3,436.7,billing_counter,Billing / Consultation Counter
+373,12.446,2,1027.2,908.5,central_display,Central Product Display
+374,12.479,1,1514.4,436.8,billing_counter,Billing / Consultation Counter
+374,12.479,2,1021.3,908.6,central_display,Central Product Display
+375,12.513,1,1513.9,437.0,billing_counter,Billing / Consultation Counter
+375,12.513,2,1020.9,908.7,central_display,Central Product Display
+376,12.546,1,1514.1,436.8,billing_counter,Billing / Consultation Counter
+376,12.546,2,1019.4,908.6,central_display,Central Product Display
+377,12.579,1,1515.0,437.2,billing_counter,Billing / Consultation Counter
+377,12.579,2,1016.5,908.6,central_display,Central Product Display
+378,12.613,1,1515.1,437.9,billing_counter,Billing / Consultation Counter
+378,12.613,2,1013.6,908.8,central_display,Central Product Display
+379,12.646,1,1515.1,438.1,billing_counter,Billing / Consultation Counter
+379,12.646,2,1012.6,908.9,central_display,Central Product Display
+380,12.679,1,1514.7,438.3,billing_counter,Billing / Consultation Counter
+380,12.679,2,1012.4,909.0,central_display,Central Product Display
+381,12.713,1,1514.5,438.9,billing_counter,Billing / Consultation Counter
+381,12.713,2,1018.2,908.9,central_display,Central Product Display
+382,12.746,1,1513.8,440.3,billing_counter,Billing / Consultation Counter
+382,12.746,2,1019.3,908.7,central_display,Central Product Display
+383,12.779,1,1513.5,440.7,billing_counter,Billing / Consultation Counter
+383,12.779,2,1013.6,908.6,central_display,Central Product Display
+384,12.813,1,1513.3,441.2,billing_counter,Billing / Consultation Counter
+384,12.813,2,1016.1,908.6,central_display,Central Product Display
+385,12.846,1,1513.2,441.3,billing_counter,Billing / Consultation Counter
+385,12.846,2,1017.0,908.6,central_display,Central Product Display
+386,12.88,1,1512.4,442.0,billing_counter,Billing / Consultation Counter
+386,12.88,2,1015.1,909.0,central_display,Central Product Display
+387,12.913,1,1512.5,441.7,billing_counter,Billing / Consultation Counter
+387,12.913,2,1014.1,909.2,central_display,Central Product Display
+388,12.946,1,1513.0,441.2,billing_counter,Billing / Consultation Counter
+388,12.946,2,1013.4,909.5,central_display,Central Product Display
+389,12.98,1,1512.7,441.4,billing_counter,Billing / Consultation Counter
+389,12.98,2,1014.4,909.4,central_display,Central Product Display
+390,13.013,1,1513.3,440.6,billing_counter,Billing / Consultation Counter
+390,13.013,2,1015.5,909.5,central_display,Central Product Display
+391,13.046,1,1513.5,440.3,billing_counter,Billing / Consultation Counter
+391,13.046,2,1015.9,909.5,central_display,Central Product Display
+392,13.08,1,1513.2,440.6,billing_counter,Billing / Consultation Counter
+392,13.08,2,1019.9,909.4,central_display,Central Product Display
+393,13.113,1,1514.4,439.5,billing_counter,Billing / Consultation Counter
+393,13.113,2,1022.9,909.3,central_display,Central Product Display
+394,13.146,1,1513.9,441.0,billing_counter,Billing / Consultation Counter
+394,13.146,2,1025.6,909.1,central_display,Central Product Display
+395,13.18,1,1514.2,441.1,billing_counter,Billing / Consultation Counter
+395,13.18,2,1027.2,908.8,central_display,Central Product Display
+396,13.213,1,1514.1,441.5,billing_counter,Billing / Consultation Counter
+396,13.213,2,1028.4,908.8,central_display,Central Product Display
+397,13.247,1,1514.1,441.7,billing_counter,Billing / Consultation Counter
+397,13.247,2,1028.8,908.8,central_display,Central Product Display
+398,13.28,1,1514.9,440.5,billing_counter,Billing / Consultation Counter
+398,13.28,2,1029.7,908.7,central_display,Central Product Display
+399,13.313,1,1515.2,439.9,billing_counter,Billing / Consultation Counter
+399,13.313,2,1029.4,908.6,central_display,Central Product Display
+400,13.347,1,1515.9,439.2,billing_counter,Billing / Consultation Counter
+400,13.347,2,1030.7,908.5,central_display,Central Product Display
+401,13.38,1,1516.2,439.2,billing_counter,Billing / Consultation Counter
+401,13.38,2,1031.0,908.2,central_display,Central Product Display
+402,13.413,1,1516.4,439.4,billing_counter,Billing / Consultation Counter
+402,13.413,2,1031.0,908.7,central_display,Central Product Display
+403,13.447,1,1516.4,439.6,billing_counter,Billing / Consultation Counter
+403,13.447,2,1031.0,908.8,central_display,Central Product Display
+404,13.48,1,1516.6,439.3,billing_counter,Billing / Consultation Counter
+404,13.48,2,1030.0,908.9,central_display,Central Product Display
+405,13.514,1,1517.1,439.0,billing_counter,Billing / Consultation Counter
+405,13.514,2,1030.9,908.7,central_display,Central Product Display
+406,13.547,1,1517.4,439.3,billing_counter,Billing / Consultation Counter
+406,13.547,2,1030.7,908.4,central_display,Central Product Display
+407,13.58,1,1517.4,439.9,billing_counter,Billing / Consultation Counter
+407,13.58,2,1029.5,908.1,central_display,Central Product Display
+408,13.614,1,1517.5,440.0,billing_counter,Billing / Consultation Counter
+408,13.614,2,1030.7,907.8,central_display,Central Product Display
+409,13.647,1,1517.5,440.1,billing_counter,Billing / Consultation Counter
+409,13.647,2,1031.2,907.7,central_display,Central Product Display
+410,13.68,1,1517.5,440.2,billing_counter,Billing / Consultation Counter
+410,13.68,2,1031.9,907.7,central_display,Central Product Display
+411,13.714,1,1517.3,440.2,billing_counter,Billing / Consultation Counter
+411,13.714,2,1033.8,907.5,central_display,Central Product Display
+412,13.747,1,1517.3,440.0,billing_counter,Billing / Consultation Counter
+412,13.747,2,1033.4,907.4,central_display,Central Product Display
+413,13.78,1,1517.2,440.0,billing_counter,Billing / Consultation Counter
+413,13.78,2,1030.8,907.3,central_display,Central Product Display
+414,13.814,1,1516.7,440.1,billing_counter,Billing / Consultation Counter
+414,13.814,2,1030.9,907.6,central_display,Central Product Display
+415,13.847,1,1516.5,440.0,billing_counter,Billing / Consultation Counter
+415,13.847,2,1030.8,907.8,central_display,Central Product Display
+416,13.881,1,1515.1,441.5,billing_counter,Billing / Consultation Counter
+416,13.881,2,1033.7,907.6,central_display,Central Product Display
+417,13.914,1,1513.6,442.9,billing_counter,Billing / Consultation Counter
+417,13.914,2,1035.2,907.6,central_display,Central Product Display
+418,13.947,1,1513.8,443.2,billing_counter,Billing / Consultation Counter
+418,13.947,2,1038.4,907.7,central_display,Central Product Display
+419,13.981,1,1511.3,444.1,billing_counter,Billing / Consultation Counter
+419,13.981,2,1040.6,907.6,central_display,Central Product Display
+420,14.014,1,1511.5,443.8,billing_counter,Billing / Consultation Counter
+420,14.014,2,1042.5,907.5,central_display,Central Product Display
+421,14.047,1,1511.6,443.7,billing_counter,Billing / Consultation Counter
+421,14.047,2,1043.2,907.4,central_display,Central Product Display
+422,14.081,1,1511.8,443.1,billing_counter,Billing / Consultation Counter
+422,14.081,2,1044.0,907.1,central_display,Central Product Display
+423,14.114,1,1512.9,442.2,billing_counter,Billing / Consultation Counter
+423,14.114,2,1044.8,907.1,central_display,Central Product Display
+424,14.147,1,1513.3,442.1,billing_counter,Billing / Consultation Counter
+424,14.147,2,1045.3,907.2,central_display,Central Product Display
+425,14.181,1,1511.4,442.7,billing_counter,Billing / Consultation Counter
+425,14.181,2,1046.4,906.7,central_display,Central Product Display
+426,14.214,1,1511.1,442.5,billing_counter,Billing / Consultation Counter
+426,14.214,2,1048.2,906.5,central_display,Central Product Display
+427,14.248,1,1510.3,442.3,billing_counter,Billing / Consultation Counter
+427,14.248,2,1048.9,906.3,central_display,Central Product Display
+428,14.281,1,1509.9,442.3,billing_counter,Billing / Consultation Counter
+428,14.281,2,1057.9,904.2,central_display,Central Product Display
+429,14.314,1,1509.4,442.0,billing_counter,Billing / Consultation Counter
+429,14.314,2,1053.4,905.3,central_display,Central Product Display
+430,14.348,1,1509.1,442.3,billing_counter,Billing / Consultation Counter
+430,14.348,2,1052.7,905.6,central_display,Central Product Display
+431,14.381,1,1508.4,443.3,billing_counter,Billing / Consultation Counter
+431,14.381,2,1052.7,905.7,central_display,Central Product Display
+432,14.414,1,1508.2,443.4,billing_counter,Billing / Consultation Counter
+432,14.414,2,1052.4,905.9,central_display,Central Product Display
+433,14.448,1,1508.2,443.4,billing_counter,Billing / Consultation Counter
+433,14.448,2,1052.3,906.0,central_display,Central Product Display
+434,14.481,1,1507.2,444.1,billing_counter,Billing / Consultation Counter
+434,14.481,2,1053.6,905.8,central_display,Central Product Display
+435,14.514,1,1505.9,444.7,billing_counter,Billing / Consultation Counter
+435,14.514,2,1054.8,905.8,central_display,Central Product Display
+436,14.548,1,1505.7,444.0,billing_counter,Billing / Consultation Counter
+436,14.548,2,1055.2,905.6,central_display,Central Product Display
+437,14.581,1,1507.5,443.4,billing_counter,Billing / Consultation Counter
+437,14.581,2,1056.4,905.3,central_display,Central Product Display
+438,14.615,1,1506.6,443.4,billing_counter,Billing / Consultation Counter
+438,14.615,2,1057.3,905.1,central_display,Central Product Display
+439,14.648,1,1506.2,443.4,billing_counter,Billing / Consultation Counter
+439,14.648,2,1057.6,905.0,central_display,Central Product Display
+440,14.681,1,1508.3,441.9,billing_counter,Billing / Consultation Counter
+440,14.681,2,1058.1,904.5,central_display,Central Product Display
+441,14.715,1,1508.7,441.8,billing_counter,Billing / Consultation Counter
+441,14.715,2,1058.9,904.1,central_display,Central Product Display
+442,14.748,1,1510.0,441.3,billing_counter,Billing / Consultation Counter
+442,14.748,2,1060.2,903.5,central_display,Central Product Display
+443,14.781,1,1510.9,441.2,billing_counter,Billing / Consultation Counter
+443,14.781,2,1061.6,902.9,central_display,Central Product Display
+444,14.815,1,1511.4,440.8,billing_counter,Billing / Consultation Counter
+444,14.815,2,1063.1,902.7,central_display,Central Product Display
+445,14.848,1,1511.6,440.6,billing_counter,Billing / Consultation Counter
+445,14.848,2,1063.7,902.6,central_display,Central Product Display
+446,14.882,1,1510.8,441.1,billing_counter,Billing / Consultation Counter
+446,14.882,2,1064.9,902.8,central_display,Central Product Display
+447,14.915,1,1509.5,441.6,billing_counter,Billing / Consultation Counter
+447,14.915,2,1067.2,903.1,central_display,Central Product Display
+448,14.948,1,1509.3,441.3,billing_counter,Billing / Consultation Counter
+448,14.948,2,1070.4,902.9,central_display,Central Product Display

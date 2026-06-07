@@ -1,0 +1,47 @@
+# Zone polygons for CAM 1 (1920x1080 fisheye view).
+# Coordinates are pixel (x, y) on the video frame.
+# Reference: store_layout.xlsx floor plan + manual calibration on CAM 1.
+
+camera: CAM 1
+frame_size: [1920, 1080]
+
+zones:
+  - name: billing_counter
+    label: Billing / Consultation Counter
+    polygon:
+      - [1050, 180]
+      - [1920, 180]
+      - [1920, 620]
+      - [1050, 620]
+
+  - name: central_display
+    label: Central Product Display
+    polygon:
+      - [520, 480]
+      - [1150, 480]
+      - [1150, 1000]
+      - [520, 1000]
+
+  - name: left_aisles
+    label: Left Skincare Aisles
+    polygon:
+      - [0, 250]
+      - [520, 250]
+      - [520, 1000]
+      - [0, 1000]
+
+  - name: back_aisles
+    label: Back Wall Aisles
+    polygon:
+      - [350, 0]
+      - [1550, 0]
+      - [1550, 380]
+      - [350, 380]
+
+  - name: right_walkway
+    label: Right Walkway
+    polygon:
+      - [900, 380]
+      - [1050, 380]
+      - [1050, 620]
+      - [900, 620]

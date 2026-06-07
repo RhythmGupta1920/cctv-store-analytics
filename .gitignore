@@ -1,0 +1,28 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Large / local data — do not commit
+data/
+*.mp4
+*.zip
+*.pt
+
+# POS data contains customer PII — keep local only
+sales.csv
+
+# Generated pipeline media
+pipeline/output/
+pipeline/output_*.mp4
+pipeline/cam1_*.jpg
+pipeline/cam1_frame0.jpg
+
+# Node / build
+node_modules/
+dashboard/dist/
+
+# IDE / OS
+.vscode/
+.idea/
+Ultralytics/
